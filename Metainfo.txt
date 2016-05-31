@@ -1,0 +1,13 @@
+﻿Name of Quantlet: XFGDCC_GARCH_Automobile
+
+Published in: Applied Quantitative Finance
+
+Description: Uses DCC GARCH to estimate Value at Risk. Also includes a backtest for the estimation results 
+
+Keywords: time-series, tail, risk measure, risk capital exposure
+
+Author: Thorsten Disser, Cathy Yi-Hsuan Chen
+
+Submitted:  2016/05/31
+
+Datafile: "VaR Automobile.csv"
